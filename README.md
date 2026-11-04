@@ -22,7 +22,7 @@ A GitHub search for "perplexity computer" returned 160 repositories on 2 Novembe
 
 | Project | Layer | What it runs | Licence |
 |---|---|---|---|
-| **[Kortix](https://github.com/kortix-ai/suna)** | Agent you run | The open-source CompanyOS: agents, skills, company memory, connectors and triggers as files in one git repo you own. One isolated sandbox per session. Session work reaches `main` through a change request. Merge is default-deny for agents. | Open source. Read it, fork it, audit it. |
+| **[Kortix](https://github.com/kortix-ai/CompanyOS)** | Agent you run | The open-source CompanyOS: agents, skills, company memory, connectors and triggers as files in one git repo you own. One isolated sandbox per session. Session work reaches `main` through a change request. Merge is default-deny for agents. | Open source. Read it, fork it, audit it. |
 | **[OpenHands](https://github.com/OpenHands/OpenHands)** | Agent you run | Agent Canvas, a self-hosted control center that runs OpenHands, Claude Code, Codex, Gemini, Pi or any ACP agent locally, in Docker, on a VM or in your cloud, with scheduled automations. | MIT |
 | **[OpenWork](https://github.com/different-ai/openwork)** | Agent you run | A desktop app for macOS, Windows and Linux where agents work on your own files, built on OpenCode, with 50+ model providers and a self-hostable team control plane. | MIT outside `ee/`; the `ee/` directory carries the OpenWork Enterprise Edition licence. |
 | **[Eigent](https://github.com/eigent-ai/eigent)** | Agent you run | A Cowork-style desktop app for a multi-agent workforce: parallel sub-agents, a single-agent harness, MCP and skill integration, browser and terminal toolkits, local by default. | Apache-2.0 |
